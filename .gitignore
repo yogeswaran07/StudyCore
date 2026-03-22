@@ -1,0 +1,8 @@
+# Backend
+teamflow/backend/node_modules/
+teamflow/backend/.env
+
+# Frontend
+teamflow/frontend/node_modules/
+teamflow/frontend/dist/
+teamflow/frontend/.env
